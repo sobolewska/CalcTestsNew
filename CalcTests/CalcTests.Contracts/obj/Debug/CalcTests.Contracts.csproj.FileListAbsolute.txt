@@ -1,6 +1,0 @@
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\bin\Debug\CalcTests.Contracts.dll
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\bin\Debug\CalcTests.Contracts.pdb
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\bin\Debug\UIElementsStub.dll
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\bin\Debug\UIElementsStub.pdb
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\obj\Debug\CalcTests.Contracts.dll
-D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.Contracts\obj\Debug\CalcTests.Contracts.pdb

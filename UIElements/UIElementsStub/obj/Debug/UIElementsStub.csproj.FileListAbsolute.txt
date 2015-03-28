@@ -1,4 +1,0 @@
-D:\Users\Milena\documents\visual studio 2013\Projects\UIElements\UIElementsStub\bin\Debug\UIElementsStub.dll
-D:\Users\Milena\documents\visual studio 2013\Projects\UIElements\UIElementsStub\bin\Debug\UIElementsStub.pdb
-D:\Users\Milena\documents\visual studio 2013\Projects\UIElements\UIElementsStub\obj\Debug\UIElementsStub.dll
-D:\Users\Milena\documents\visual studio 2013\Projects\UIElements\UIElementsStub\obj\Debug\UIElementsStub.pdb
