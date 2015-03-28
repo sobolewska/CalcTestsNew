@@ -1,0 +1,12 @@
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\CalcTests.UITests.dll.config
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\CalcTests.UITests.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\CalcTests.UITests.pdb
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\nunit.core.interfaces.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\nunit.framework.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\UIElementsStub.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\nunit.framework.xml
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\bin\Debug\UIElementsStub.pdb
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\obj\Debug\CalcTests.UITests.csprojResolveAssemblyReference.cache
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\obj\Debug\CalcTests.UITests.dll
+D:\Users\Milena\Documents\Visual Studio 2013\Projects\CalcTests\CalcTests.UITests\obj\Debug\CalcTests.UITests.pdb

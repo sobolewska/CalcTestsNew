@@ -1,0 +1,9 @@
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\CalcTests.dll.config
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\CalcTests.dll
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\CalcTests.pdb
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\nunit.framework.dll
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\bin\Debug\nunit.framework.xml
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\obj\Debug\CalcTests.csprojResolveAssemblyReference.cache
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\obj\Debug\CalcTests.dll
+D:\Users\Milena\documents\visual studio 2013\Projects\CalcTests\CalcTests\obj\Debug\CalcTests.pdb
