@@ -8,12 +8,17 @@ namespace CalcTests.UITests.Page
         private CalcModel _calcModel;
         private Process _process;
 
+        public CalcPage()
+        {
+            Init();
+        }
+
         public string Id
         {
             get { return GetType().FullName; }
         }
 
-        public void Init()
+        private void Init()
         {
             _process = Process.Start("calc");
             _calcModel = new CalcModel();

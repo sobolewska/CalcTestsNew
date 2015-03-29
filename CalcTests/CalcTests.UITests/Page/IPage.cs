@@ -3,6 +3,5 @@
     public interface IPage
     {
         string Id { get; }
-        void Init();
     }
 }
